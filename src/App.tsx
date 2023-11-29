@@ -33,8 +33,10 @@ export default function App() {
     console.log(entry);
     return (
       <span style={{ color }}>
-        {/* Note that Typescript throws an error here, remove the {entry.dataKey} portion to see the log */}
         {entry.legendIcon}
+        {/* Note that Typescript throws an error here, remove the @ts-ignore portion to see the error */}
+        {/* @ts-ignore disable-next-line */}
+        {entry.dataKey}
       </span>
     );
   }, []);
