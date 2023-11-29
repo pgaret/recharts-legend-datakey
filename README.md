@@ -1,13 +1,13 @@
 # Typescript Error
 
 The dataKey shows up in the payload
-![The dataKey shows up in the payload](https://github.com/pgaret/recharts-legend-key/blob/master/console-log.png?raw=true)
+![The dataKey shows up in the payload](https://github.com/pgaret/recharts-legend-key/blob/main/static/console-log.png?raw=true)
 
 The typescript error when you access it via code
-![The typescript error when you access it via code](https://github.com/pgaret/recharts-legend-key/blob/master/typescript-error.png?raw=true)
+![The typescript error when you access it via code](https://github.com/pgaret/recharts-legend-key/blob/main/static/typescript-error.png?raw=true)
 
 The dataKey rendering if you @ts-ignore the issue
-![The dataKey rendering if you @ts-ignore the issue](https://github.com/pgaret/recharts-legend-key/blob/master/works-if-ts-ignore.png?raw=true)
+![The dataKey rendering if you @ts-ignore the issue](https://github.com/pgaret/recharts-legend-key/blob/main/static/works-if-ts-ignore.png?raw=true)
 
 # Getting Started with Create React App
 
