@@ -1,7 +1,7 @@
 # Typescript Error
 
 The dataKey shows up in the payload
-![The dataKey shows up in the payload](https://github.com/pgaret/recharts-legend-key/blob/main/static/console-log.png?raw=true)
+![The dataKey shows up in the payload](https://github.com/pgaret/recharts-legend-datakey/blob/main/static/console-log.png)
 
 The typescript error when you access it via code
 ![The typescript error when you access it via code](https://github.com/pgaret/recharts-legend-key/blob/main/static/typescript-error.png?raw=true)
